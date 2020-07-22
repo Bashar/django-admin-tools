@@ -71,7 +71,7 @@ Documentation
 Translations
 ************
 
-There is a `a transifex project <https://transifex.net/projects/p/django-admin-tools/>`_ for django-admin-tools.
+There is a `a transifex project <https://transifex.com/projects/p/django-admin-tools/>`_ for django-admin-tools.
 
 ************
 Screenshots
